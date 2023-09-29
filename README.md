@@ -1,5 +1,6 @@
 #### Demo for bug extension
 The bug: css is not loaded by chrome side panel extension
+
 To recreate: 
 - clone git@github.com:yigalirani/cssbug.git
 - using chrome, goto chrome://extensions/
